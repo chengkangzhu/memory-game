@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let allCards  = document.querySelectorAll('.grid img')
 
   let twoCardArr = [];
-  
+   
   allCards.forEach(c =>{
     c.onclick = function(){
       if(twoCardArr.length < 2){
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-
+//hsokme
 
 
 
