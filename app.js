@@ -50,6 +50,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   ]
 
+  cardArray.sort(()=>0.5 - Math.random())
+
   
 
   let board = document.querySelector('.grid')
