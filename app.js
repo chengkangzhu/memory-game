@@ -50,6 +50,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   ]
 
+  
+
   let board = document.querySelector('.grid')
   
 
@@ -117,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       
     } 
-  })
+  }) 
 
 
 
@@ -128,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-//hsokme
+//hsokmeadfad
 
 
 
